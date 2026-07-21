@@ -3,7 +3,7 @@
 urllib3>=2.6.0  # CVE-2025-66471, CVE-2025-66418, CVE-2026-21441
 tornado>=6.5.3  # CVE-2025-67725, CVE-2025-67726, CVE-2025-67724
 filelock>=3.20.1  # CVE-2025-68146
-Pillow==12.1.1  #GHSA-cfh3-3jmp-rvhc
+Pillow==12.3.0  #GHSA-cfh3-3jmp-rvhc
 cryptography==46.0.5 #GHSA-r6ph-v2qm-q3c2
 
 anyio==4.8.0 # openai + http req.
