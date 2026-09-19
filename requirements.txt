@@ -6,7 +6,7 @@ filelock>=3.20.1  # CVE-2025-68146
 Pillow==12.1.1  #GHSA-cfh3-3jmp-rvhc
 cryptography==46.0.5 #GHSA-r6ph-v2qm-q3c2
 
-anyio==4.8.0 # openai + http req.
+anyio==4.14.2 # openai + http req.
 httpx==0.28.1
 openai==2.9.0  # openai req.
 fastapi==0.120.1 # server dep
